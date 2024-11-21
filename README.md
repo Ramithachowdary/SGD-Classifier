@@ -56,6 +56,7 @@ print(cm)
 
 ## Output:
 ![prediction of iris species using SGD Classifier](sam.png)
+```
   sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)  \
 0                5.1               3.5                1.4               0.2   
 1                4.9               3.0                1.4               0.2   
@@ -74,6 +75,6 @@ Confusion Matrix:
 [[10  0  0]
  [ 5  4  0]
  [ 2  0  9]]
-
+```
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
